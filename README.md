@@ -4,47 +4,12 @@
 
 ## 资料目录
 
-下面列出了项目的相关资料，包括日期和相应的下载链接。
+下面列出了每一期汇报的PPT
 
-- [20230305 - 资料名称](https://pan.baidu.com/s/10nFd9HMV7n6mJwydH-1b3Q?pwd=642l)
-- [20230313 - 资料名称](https://pan.baidu.com/s/1RdIkCwF0VX6Z1-OL1Ky0xg?pwd=clpj)
-- [20230319 - 资料名称](下载链接)
-- [20230326 - 资料名称](下载链接)
-- [20230402 - 资料名称](下载链接)
+- [20240101 - 资料名称](https://pan.baidu.com/s/10nFd9HMV7n6mJwydH-1b3Q?pwd=642l)
+- [20240121 - 资料名称](https://pan.baidu.com/s/1RdIkCwF0VX6Z1-OL1Ky0xg?pwd=clpj)
+- 
+- [会议纪要](https://pan.baidu.com/s/1JAVkdKgKr9bNoBfe0mkGyg?pwd=tvc2)
 - 更多...
 
-## 如何使用
 
-说明用户如何使用这些资料或如何在项目中导航。
-
-## 常见问题
-
-这里可以回答一些用户可能会问的常见问题。
-
-### 问题1: 关于资料1的常见问题?
-
-解答1。
-
-### 问题2: 如何更好地利用资料2?
-
-解答2。
-
-### 问题3: 如果找不到想要的资料怎么办?
-
-解答3。
-
-## 贡献
-
-欢迎贡献! 如果你有好的建议或资料，可以通过issues或者pull requests来提出。
-
-## 许可证
-
-[MIT](LICENSE) © [你的名字或组织名]
-
-## 联系方式
-
-如果你有任何问题，可以通过以下方式联系我们：
-
-- Email: [你的邮箱]
-- Telegram: [你的Telegram]
-- WeChat: [你的微信]
