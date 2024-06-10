@@ -10,6 +10,11 @@
 - [20240121 - 资料名称](https://pan.baidu.com/s/1RdIkCwF0VX6Z1-OL1Ky0xg?pwd=clpj)
 - [20240304 - 资料名称](https://pan.baidu.com/s/1y6vn3mo55jIlWrKlYVeddw?pwd=yaqz)
 - [20240410 - 资料名称](https://pan.baidu.com/s/1Blrpjv5m57d7iaBsy6iX6g?pwd=ecc7)
+- [20240425 - 线下找刘老师开会，分享论文](https://pan.baidu.com/s/1dzNMfvtrPehRbUwySyrtYw?pwd=foun)
+- [20240501 - 报销资料](https://pan.baidu.com/s/1gO5ZA6z8Ej_wAWae8qTvFg?pwd=xsqp)
+- [20240518 - 线上开会](https://pan.baidu.com/s/1RePBNn8ygH0e2GT7hKk2mQ?pwd=rhmp)
+- [20240526 - 大创升级申报材料](https://pan.baidu.com/s/14RjbLeKQ33ZITqnrLyoamw?pwd=xy8u)
+- [20240610 - 线上开会]()
 - [会议纪要](https://pan.baidu.com/s/1JAVkdKgKr9bNoBfe0mkGyg?pwd=tvc2)
 - 更多...
 
